@@ -1,4 +1,10 @@
-# ELEC5619 VacBook Web Application
+#  VacBook Web Application
+
+
+## Original project
+原始项目地址
+https://github.com/reneeli0223/Group45md5/tree/master
+
 
 ## Background
 
@@ -116,10 +122,6 @@ Import the Vacbook folder through IDEA or Eclipse
 <a href="https://github.com/reneeli0223/Group45md5/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=reneeli0223/Group45md5" />
 </a>
-
-## Original project
-原始项目地址
-https://github.com/reneeli0223/Group45md5/tree/master
 
 
 
